@@ -1,4 +1,4 @@
-# Projeto FullStack TODO LIST
+# Projeto FullStack TO-DO LIST
 
 Projeto fullstack - Lista de Tarefas
 
