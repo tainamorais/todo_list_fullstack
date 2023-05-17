@@ -1,1 +1,6 @@
-# todo_list_fullstack
+# projeto fullstack todo_list
+
+Projeto FULLSTACK - Lista de Tarefas
+
+Back-end: API completa com NodeJS e Express, utilizando banco de dados MySQL.
+Front-end: Utilizando JavaScript, HTML e CSS.
