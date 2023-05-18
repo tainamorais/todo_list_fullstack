@@ -148,10 +148,17 @@ select:hover {
 
 .btn-action:nth-child(1) {
   color: #18b875;
+  background-color: transparent;
   margin-right: 5px;
 }
 
 .btn-action:nth-child(2) {
   color: #d63f58;
   margin-left: 5px;
+  background-color: transparent;
+}
+
+.edit-input{
+  height: 10px;
+  width: 100%;
 }
